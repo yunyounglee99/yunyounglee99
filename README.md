@@ -1,4 +1,4 @@
-# 윤영 이 (YunYoung Lee) 👋
+# YunYoung Lee 👋
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 
   ### *"Problem Solving and Challenges"*
   
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/YunYoungLee99)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yunyounlee99)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
   [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:example@gmail.com)
 
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3cnFyanl3OGFnM3Z5MGpwcmxsczAzZDY3NGQ1ZGlnN3lvaGZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3cnFyanl3OGFnM3Z5MGpwcmxsczAzZDY3NGQ1ZGlnN3lvaGZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 안녕하세요! 고려대학교 물리학과/소프트웨어벤처 전공의 이윤영입니다.
 
@@ -26,22 +26,25 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ### Libraries & Frameworks
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 ### Tools
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -51,6 +54,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -59,6 +63,33 @@
 </div>
 
 ## 🔬 Research Interests & Projects
+
+```mermaid
+graph TD
+    A[Research Interests] --> B[Continual Learning]
+    A --> C[Multi-Modal Learning]
+    
+    B --> B1[Rehearsal-free techniques]
+    B --> B2[Efficient parameter management]
+    B --> B3[Online learning capabilities]
+    
+    C --> C1[Cross-modal integration]
+    C --> C2[Vision-language-action models]
+    C --> C3[Applications in robotics]
+    
+    D[Projects] --> D1[What2Wear]
+    D --> D2[openVLA & SLAM]
+    D --> D3[AI BGM Generator]
+    D --> D4[Guitar Effects AI]
+    D --> D5[GcooYa]
+    
+    D1 -- FashionCLIP --> C
+    D2 -- Self-driving --> C
+    D2 -- LoRA fine-tuning --> B
+    D5 -- LLM Voice Navigation --> C
+    
+    E[Vision] --> E1[Liberating humanity from labor through robotics and AI]
+```
 
 ## 🚀 Notable Projects
 
@@ -112,18 +143,3 @@ Rehearsal-free continual learning에서 모델 구조 개선 및 성능 향상�
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
   
 </div>
-
-<!--
-**yunyounglee99/yunyounglee99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
