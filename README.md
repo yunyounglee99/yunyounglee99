@@ -18,11 +18,11 @@
 
 Hello! I'm Yunyoung Lee, a Physics and Software Technology & Entrepreneurship major at Korea University.
 
-🎯 I center my life around **problem solving** and the **spirit of challenge**
-🤖 My goal is to **liberate humanity from labor** through robotics and artificial intelligence
-🧠 I'm actively researching **Continual Learning** and **Multi Modal** fields with special interest
-🔍 I enjoy the process of defining new problems and solving them with creative approaches
-🚀 I embrace a proactive approach that anticipates and prepares for the future
+- 🎯 I center my life around **problem solving** and the **spirit of challenge**
+- 🤖 My goal is to **liberate humanity from labor** through robotics and artificial intelligence
+- 🧠 I'm actively researching **Continual Learning** and **Multi Modal** fields with special interest
+- 🔍 I enjoy the process of defining new problems and solving them with creative approaches
+- 🚀 I embrace a proactive approach that anticipates and prepares for the future
 
 ## 🛠️ Tech Stack
 
