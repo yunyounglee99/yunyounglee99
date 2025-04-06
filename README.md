@@ -130,13 +130,12 @@ Rehearsal-free continual learning에서 모델 구조 개선 및 성능 향상�
 
 ## 🎓 Education
 
-- **고려대학교** | 물리학과 & 소프트웨어벤처 | 졸업 예정
+- **Korea Univ.** | Physics & Software Technology & Entrepreneurship | undergraduate
 
 ## 👨‍💻 I'm currently focusing on...
 
-- 💡 Continual Learning과 Multi-Modal 연구
-- 🤖 로봇공학과 인공지능의 통합 방안
-- ⚡ 효율적인 Online Learning 모델 개발
+- 💡 Research in Continual Learning and Multi-Modal systems
+- 🤖 Integration strategies for robotics and artificial intelligence
 
 <div align="center">
   
