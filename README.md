@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3cnFyanl3OGFnM3Z5MGpwcmxsczAzZDY3NGQ1ZGlnN3lvaGZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3cnFyanl3OGFnM3Z5MGpwcmxsczAzZDY3NGQ1ZGlnN3lvaGZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 안녕하세요! 고려대학교 물리학과/소프트웨어벤처 전공의 이윤영입니다.
 
