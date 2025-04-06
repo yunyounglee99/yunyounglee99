@@ -16,13 +16,13 @@
 
 <img align="right" alt="Coding" width="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3cnFyanl3OGFnM3Z5MGpwcmxsczAzZDY3NGQ1ZGlnN3lvaGZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-안녕하세요! 고려대학교 물리학과/소프트웨어벤처 전공의 이윤영입니다.
+Hello! I'm Yunyoung Lee, a Physics and Software Technology & Entrepreneurship major at Korea University.
 
-- 🎯 **문제 해결**과 **도전 정신**을 인생의 중심 가치로 삼고 있습니다
-- 🤖 로봇과 인공지능을 통한 **인류의 노동에서의 해방**을 목표로 합니다
-- 🧠 **Continual Learning**과 **Multi Modal** 분야에 특별한 관심을 갖고 연구 중입니다
-- 🔍 새로운 문제를 정의하고 창의적인 방법으로 해결하는 과정을 즐깁니다
-- 🚀 미래를 내다보고 준비하는 선제적 접근 방식을 지향합니다
+🎯 I center my life around **problem solving** and the **spirit of challenge**
+🤖 My goal is to **liberate humanity from labor** through robotics and artificial intelligence
+🧠 I'm actively researching **Continual Learning** and **Multi Modal** fields with special interest
+🔍 I enjoy the process of defining new problems and solving them with creative approaches
+🚀 I embrace a proactive approach that anticipates and prepares for the future
 
 ## 🛠️ Tech Stack
 
