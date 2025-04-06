@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## YunYoung Lee 👋
+<div align="center">
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YunYoung%20Lee&fontSize=90
 <!--
 **yunyounglee99/yunyounglee99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
