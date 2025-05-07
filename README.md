@@ -94,7 +94,7 @@ graph TD
 
 ## 🚀 Notable Projects
 
-### 👕 What2Wear
+### 👕 [What2Wear](https://github.com/yunyounglee99/What2Wear)
 AI 기반 의류 추천 시스템으로, FashionCLIP을 활용하여 개발한 새로운 모델입니다. 전체적인 아웃핏을 이해하고 사용자가 선택한 의류 아이템에 맞게 잘 어울리는 다른 카테고리의 의류 아이템을 추천합니다.
 - 교내 인공지능 모델 개발 및 사업화 대회 **3등 수상**
 - 새로운 Matching Loss 개념 제안
