@@ -123,7 +123,7 @@ Personal Mobility의 사회적 인식 개선을 위한 LLM 기반 음성 상호�
 
 ## 📚 Current Research
 
-### CSAE (Continual Sparse AutoEncoder)
+### [CSAE (Continual Sparse AutoEncoder)](https://github.com/yunyounglee99/CSAE)
 Rehearsal-free continual learning에서 모델 구조 개선 및 성능 향상을 위한 연구입니다.
 - Topk gating을 활용한 SAE 병렬 연결
 - Task 추가 시 parameter 증가 방지
