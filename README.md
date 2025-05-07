@@ -60,7 +60,7 @@ Hello! I'm Yunyoung Lee, a Physics and Software Technology & Entrepreneurship ma
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YunYoungLee&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunyounglee99&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🔬 Research Interests & Projects
