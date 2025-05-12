@@ -100,12 +100,7 @@ AI 기반 의류 추천 시스템으로, FashionCLIP을 활용하여 개발한 �
 - 새로운 Matching Loss 개념 제안
 - 라벨링/유저 데이터 없이 outfit 이미지만으로 추천 가능
 
-### 🤖 openVLA & SLAM 활용 라즈베리파이 자율주행 자동차
-로봇과 AI의 융합을 연구하기 위한 프로젝트로, openVLA의 적용 범위를 로봇팔에서 자율주행 자동차로 확장했습니다.
-- LoRA를 활용한 fine-tuning으로 데이터 제약 문제 해결
-- 직접 데이터 수집 및 처리
-
-### 🎵 AI 기반 BGM 생성기
+### 🎵 [BGen : AI 기반 BGM 생성기](https://github.com/yunyounglee99/BGen)
 영상의 특정 구간에 어울리는 BGM을 자동으로 생성해주는 프로젝트입니다.
 - Twelve Labs API를 통한 영상 내용 이해
 - Meta의 AudioCraft API를 활용한 맞춤형 음악 생성
