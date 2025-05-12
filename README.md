@@ -92,6 +92,14 @@ graph TD
     E[Vision] --> E1[Liberating humanity from labor through robotics and AI]
 ```
 
+## 📚 Current Research
+
+### [CSAE (Continual Sparse AutoEncoder)](https://github.com/yunyounglee99/CSAE)
+Rehearsal-free continual learning에서 모델 구조 개선 및 성능 향상을 위한 연구입니다.
+- Topk gating을 활용한 SAE 병렬 연결
+- Task 추가 시 parameter 증가 방지
+- Delta interpolation과 learnable alpha 도입
+
 ## 🚀 Notable Projects
 
 ### 👕 [What2Wear](https://github.com/yunyounglee99/What2Wear)
@@ -115,14 +123,6 @@ CNN과 GANsynth를 활용하여 기타 오디오 이펙트를 분류하고 새�
 Personal Mobility의 사회적 인식 개선을 위한 LLM 기반 음성 상호작용 내비게이션 서비스입니다.
 - 해커톤 챌린지 **3등 수상**
 - 팀 내 갈등 해결 및 통합적 방향성 제시
-
-## 📚 Current Research
-
-### [CSAE (Continual Sparse AutoEncoder)](https://github.com/yunyounglee99/CSAE)
-Rehearsal-free continual learning에서 모델 구조 개선 및 성능 향상을 위한 연구입니다.
-- Topk gating을 활용한 SAE 병렬 연결
-- Task 추가 시 parameter 증가 방지
-- Delta interpolation과 learnable alpha 도입
 
 ## 🎓 Education
 
