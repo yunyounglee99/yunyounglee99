@@ -108,6 +108,12 @@ AI 기반 의류 추천 시스템으로, FashionCLIP을 활용하여 개발한 �
 - 새로운 Matching Loss 개념 제안
 - 라벨링/유저 데이터 없이 outfit 이미지만으로 추천 가능
 
+### ☘️ [Puripuri](https://github.com/yunyounglee99/puripuri)
+학생들이 문제를 풀때 인공지능 기반 힌트를 제공하는 프로젝트입니다.
+- Mathpix api를 활용한 학생 필기의 OCR인식
+- Openai Chat GPT API를 활용한 학생 풀이 다음으로 사용할 수 있는 힌트 생성
+- 수동적 학습을 넘어 학생들이 능동적으로 사고하는 방법을 증진할 수 있도록 함
+
 ### 🎵 [BGen : AI 기반 BGM 생성기](https://github.com/yunyounglee99/BGen)
 영상의 특정 구간에 어울리는 BGM을 자동으로 생성해주는 프로젝트입니다.
 - Twelve Labs API를 통한 영상 내용 이해
