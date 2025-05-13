@@ -132,7 +132,7 @@ Personal Mobility의 사회적 인식 개선을 위한 LLM 기반 음성 상호�
 
 ## 🎓 Education
 
-- **Korea Univ.** | Physics & Software Technology & Entrepreneurship | undergraduate
+- **Korea Univ.** | Physics, Software Technology & Entrepreneurship | undergraduate
 
 ## 👨‍💻 I'm currently focusing on...
 
