@@ -95,36 +95,36 @@ graph TD
 ## 📚 Current Research
 
 ### [CSAE (Continual Sparse AutoEncoder)](https://github.com/yunyounglee99/CSAE)
-Rehearsal-free continual learning에서 모델 구조 개선 및 성능 향상을 위한 연구입니다.
-- Topk gating을 활용한 SAE 병렬 연결
-- Task 추가 시 parameter 증가 방지
-- Delta interpolation과 learnable alpha 도입
+Research on enhancing model architecture and performance in rehearsal-free continual learning. 
+- Parallel integration of a Sparse AutoEncoder using top-k gating  
+- Prevents parameter growth when adding new tasks  
+- Introduces delta interpolation with a learnable α gate  
 
 ## 🚀 Notable Projects
 
 ### 👕 [What2Wear](https://github.com/yunyounglee99/What2Wear)
-AI 기반 의류 추천 시스템으로, FashionCLIP을 활용하여 개발한 새로운 모델입니다. 전체적인 아웃핏을 이해하고 사용자가 선택한 의류 아이템에 맞게 잘 어울리는 다른 카테고리의 의류 아이템을 추천합니다.
-- 교내 인공지능 모델 개발 및 사업화 대회 **3등 수상**
-- 새로운 Matching Loss 개념 제안
-- 라벨링/유저 데이터 없이 outfit 이미지만으로 추천 가능
+An AI-driven clothing recommendation system built on FashionCLIP that understands full outfits and suggests complementary items based on a user-selected garment.  
+- 3rd place in university AI model development & commercialization competition 
+- Proposed a novel Matching Loss formulation  
+- Generates outfit recommendations from unlabeled images without user history  
 
 ### ☀️ [Solar Magnetic Field Prediction with Neural ODE](https://github.com/yunyounglee99/Solar_Flare_Prediction-neuralODE)  
-태양 자기장 벡터장 ($B_x$, $B_y$, $B_z$) 의 연속적 동역학을 예측하기 위해 Neural ODE를 적용한 프로젝트입니다.
-- Convolutional ODE 함수와 Dormand–Prince 적분기를 활용해 순간적인 자기장 변화 모델링  
-- MSE 손실에 Boundary Condition Loss를 결합하여 물리적 일관성 강화  
-- `torchdiffeq`의 adaptive solver 및 adjoint method로 불규칙 시계열 처리와 메모리 효율성 확보  
+A project applying Neural ODEs to forecast the continuous dynamics of the solar magnetic field components ($B_x$, $B_y$, $B_z$).  
+- Models instantaneous magnetic field changes with a convolutional ODE function and Dormand–Prince solver    
+- Enhances physical consistency by combining MSE with a boundary-condition (divergence) loss  
+-  Handles irregular time series and reduces memory footprint via `torchdiffeq`’s adaptive solver and adjoint method  
 
 ### ☘️ [Puripuri](https://github.com/yunyounglee99/puripuri)
-학생들이 문제를 풀때 인공지능 기반 힌트를 제공하는 프로젝트입니다.
-- Mathpix api를 활용한 학생 필기의 OCR인식
-- Openai Chat GPT API를 활용한 학생 풀이 다음으로 사용할 수 있는 힌트 생성
-- 수동적 학습을 넘어 학생들이 능동적으로 사고하는 방법을 증진할 수 있도록 함
+An AI hint system that supports students solving math problems by generating context-aware hints.  
+- OCR of student handwritten work using the Mathpix API  
+- Next-step hint generation via OpenAI ChatGPT API  
+- Encourages active learning by guiding student thought processes
 
 ### 🎵 [BGen : AI 기반 BGM 생성기](https://github.com/yunyounglee99/BGen)
-영상의 특정 구간에 어울리는 BGM을 자동으로 생성해주는 프로젝트입니다.
-- Twelve Labs API를 통한 영상 내용 이해
-- Meta의 AudioCraft API를 활용한 맞춤형 음악 생성
-- 저작권 문제 해결 및 크리에이터 워크플로우 개선
+Automatically generates background music suited to specific video segments.  
+- Analyzes video content with the Twelve Labs API  
+- Produces custom music tracks using Meta’s AudioCraft API  
+- Addresses copyright concerns and streamlines creator workflows  
 
 
 ## 🎓 Education
