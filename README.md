@@ -120,7 +120,7 @@ An AI hint system that supports students solving math problems by generating con
 - Next-step hint generation via OpenAI ChatGPT API  
 - Encourages active learning by guiding student thought processes
 
-### 🎵 [BGen : AI 기반 BGM 생성기](https://github.com/yunyounglee99/BGen)
+### 🎵 [BGen : AI-driven BGM Generator](https://github.com/yunyounglee99/BGen)
 Automatically generates background music suited to specific video segments.  
 - Analyzes video content with the Twelve Labs API  
 - Produces custom music tracks using Meta’s AudioCraft API  
