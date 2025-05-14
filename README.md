@@ -108,7 +108,7 @@ AI 기반 의류 추천 시스템으로, FashionCLIP을 활용하여 개발한 �
 - 새로운 Matching Loss 개념 제안
 - 라벨링/유저 데이터 없이 outfit 이미지만으로 추천 가능
 
-### ☀️ [Solar Magnetic Field Prediction with Neural ODE](https://github.com/yunyounglee99/solar-magnetic-ode)  
+### ☀️ [Solar Magnetic Field Prediction with Neural ODE](https://github.com/yunyounglee99/Solar_Flare_Prediction-neuralODE)  
 태양 자기장 벡터장$(Bx, By, Bz)$의 연속적 동역학을 예측하기 위해 Neural ODE를 적용한 프로젝트입니다.
 - Convolutional ODE 함수와 Dormand–Prince 적분기를 활용해 순간적인 자기장 변화 모델링  
 - MSE 손실에 Boundary Condition Loss를 결합하여 물리적 일관성 강화  
