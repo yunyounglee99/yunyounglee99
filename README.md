@@ -125,7 +125,7 @@ AI 기반 의류 추천 시스템으로, FashionCLIP을 활용하여 개발한 �
 - Twelve Labs API를 통한 영상 내용 이해
 - Meta의 AudioCraft API를 활용한 맞춤형 음악 생성
 - 저작권 문제 해결 및 크리에이터 워크플로우 개선
-- 
+
 
 ## 🎓 Education
 
