@@ -31,6 +31,7 @@ Hello! I'm Yunyoung Lee, a Physics and Software Technology & Entrepreneurship ma
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 </p>
 
 ### Libraries & Frameworks
@@ -41,6 +42,7 @@ Hello! I'm Yunyoung Lee, a Physics and Software Technology & Entrepreneurship ma
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
 </p>
 
 ### Tools
@@ -54,6 +56,8 @@ Hello! I'm Yunyoung Lee, a Physics and Software Technology & Entrepreneurship ma
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/MuJoCo-FF6B35?style=for-the-badge&logo=mujoco&logoColor=white" alt="MuJoCo"/>
+  <img src="https://img.shields.io/badge/Webots-1E90FF?style=for-the-badge&logo=webots&logoColor=white" alt="Webots"/>
 </p>
 </div>
 
