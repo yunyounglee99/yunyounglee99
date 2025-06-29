@@ -23,6 +23,7 @@ Hello! I'm Yunyoung Lee, a Physics and Software Technology & Entrepreneurship ma
 - 🧠 I'm actively researching **Continual Learning** and **Multi Modal** fields with special interest
 - 🔍 I enjoy the process of defining new problems and solving them with creative approaches
 - 🚀 I embrace a proactive approach that anticipates and prepares for the future
+- 🐞 And I am a Bugslayer Supreme...!
 
 ## 🛠️ Tech Stack
 
