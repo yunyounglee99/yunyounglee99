@@ -105,7 +105,7 @@ Research on enhancing model architecture and performance in rehearsal-free conti
 - Prevents parameter growth when adding new tasks  
 - Introduces delta interpolation with a learnable α gate
 
-### [Trackformer-Music Separation Using Performer](https://github.com/yunyounglee99/trackformer_experiment)
+### [Trackformer-Music Separation Experiment Using Performer](https://github.com/yunyounglee99/trackformer_experiment)
 Research on Transformer-based self-supervised learning framework for music source separation using global context modeling.
 - Replaces ConvTasNet with Performer enhanced by FAVOR+ attention for efficient long-sequence processing
 - Eliminates reliance on labeled data through MixIT framework and conducts experiments utilizing various methods such as Audio MAE, auxiliary loss, etc.
