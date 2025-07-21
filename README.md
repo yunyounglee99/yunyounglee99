@@ -131,7 +131,7 @@ Automatically generates background music suited to specific video segments.
 - Produces custom music tracks using Meta’s AudioCraft API  
 - Addresses copyright concerns and streamlines creator workflows
 
-### [Trackformer-Music Separation Experiment Using Performer](https://github.com/yunyounglee99/trackformer_experiment)
+### 🎸 [Trackformer-Music Separation Experiment Using Performer](https://github.com/yunyounglee99/trackformer_experiment)
 Research on Transformer-based self-supervised learning framework for music source separation using global context modeling.
 - Replaces ConvTasNet with Performer enhanced by FAVOR+ attention for efficient long-sequence processing
 - Eliminates reliance on labeled data through MixIT framework and conducts experiments utilizing various methods such as Audio MAE, auxiliary loss, etc.
