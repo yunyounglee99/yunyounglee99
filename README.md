@@ -105,12 +105,6 @@ Research on enhancing model architecture and performance in rehearsal-free conti
 - Prevents parameter growth when adding new tasks  
 - Introduces delta interpolation with a learnable α gate
 
-### [Trackformer-Music Separation Experiment Using Performer](https://github.com/yunyounglee99/trackformer_experiment)
-Research on Transformer-based self-supervised learning framework for music source separation using global context modeling.
-- Replaces ConvTasNet with Performer enhanced by FAVOR+ attention for efficient long-sequence processing
-- Eliminates reliance on labeled data through MixIT framework and conducts experiments utilizing various methods such as Audio MAE, auxiliary loss, etc.
-- Achieves 10+ dB SI-SNR improvement while reducing training time by 18-26% compared to CNN-based methods
-
 ## 🚀 Notable Projects
 
 ### 👕 [What2Wear](https://github.com/yunyounglee99/What2Wear)
@@ -135,7 +129,13 @@ An AI hint system that supports students solving math problems by generating con
 Automatically generates background music suited to specific video segments.  
 - Analyzes video content with the Twelve Labs API  
 - Produces custom music tracks using Meta’s AudioCraft API  
-- Addresses copyright concerns and streamlines creator workflows  
+- Addresses copyright concerns and streamlines creator workflows
+
+### [Trackformer-Music Separation Experiment Using Performer](https://github.com/yunyounglee99/trackformer_experiment)
+Research on Transformer-based self-supervised learning framework for music source separation using global context modeling.
+- Replaces ConvTasNet with Performer enhanced by FAVOR+ attention for efficient long-sequence processing
+- Eliminates reliance on labeled data through MixIT framework and conducts experiments utilizing various methods such as Audio MAE, auxiliary loss, etc.
+- Achieves 10+ dB SI-SNR improvement while reducing training time by 18-26% compared to CNN-based methods
 
 
 ## 🎓 Education
