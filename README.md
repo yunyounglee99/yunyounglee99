@@ -98,7 +98,7 @@ graph TD
 
 ## 📚 Current Research
 
-### [DICAN: Domain Invariant Concept Adjustment Network](https://github.com/yunyounglee99/DICAN)
+### [DICAN: Domain Invariant Concept Adjustment Network](https://github.com/yunyounglee99/DICAN/tree/exp_local2)
 A few-shot domain incremental learning framework for diabetic retinopathy grading built on Concept Bottleneck Models. Submitted to SPIE Medical Imaging 2026.
 - Freezes all diagnostic components (backbone, prototype bank, classification head) across incremental sessions
 - Trains only a low-rank residual projector (262K parameters) to realign features when a new hospital domain arrives with as few as 10 labeled images
