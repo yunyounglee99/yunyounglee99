@@ -118,7 +118,14 @@ Research on enhancing model architecture and performance in rehearsal-free conti
 An AI-driven clothing recommendation system built on FashionCLIP that understands full outfits and suggests complementary items based on a user-selected garment.  
 - 3rd place in university AI model development & commercialization competition 
 - Proposed a novel Matching Loss formulation  
-- Generates outfit recommendations from unlabeled images without user history  
+- Generates outfit recommendations from unlabeled images without user history
+
+### [🍎 Daebong AI — ML + RL Recommendation System](https://github.com/yunyounglee99/daebong)
+An end-to-end recommendation system for apple wholesale distribution, combining ensemble ML models with a DQN-based RL agent to optimize long-term user engagement and conversion.
+- **Price prediction**: LightGBM · XGBoost · RandomForest regression ensemble 
+- **Quality prediction**: 4-model classification ensemble predicting CS (defect) probability
+- **RL agent**: Dueling DQN with NoisyNet exploration, Double DQN targets, and Prioritized Experience Replay — state vector `s ∈ ℝ⁵⁰` encodes user segment, session history, and ML-predicted item attributes
+- **Serving**: FastAPI + zero-downtime hot-swap model loader; new checkpoints detected and swapped in automatically every 10 minutes
 
 ### ☀️ [Solar Magnetic Field Prediction with Neural ODE](https://github.com/yunyounglee99/Solar_Flare_Prediction-neuralODE)  
 A project applying Neural ODEs to forecast the continuous dynamics of the solar magnetic field components ($B_x$, $B_y$, $B_z$).  
