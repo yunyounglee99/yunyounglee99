@@ -106,7 +106,7 @@ A few-shot domain incremental learning framework for diabetic retinopathy gradin
 - Concept bottleneck remains fully inspectable and correctable by clinicians across all sessions
 
 
-### [CSAE (Continual Sparse AutoEncoder)](https://github.com/yunyounglee99/CSAE)
+### [CSAE: Continual Sparse AutoEncoder](https://github.com/yunyounglee99/CSAE)
 Research on enhancing model architecture and performance in rehearsal-free continual learning. 
 - Parallel integration of a Sparse AutoEncoder using top-k gating  
 - Prevents parameter growth when adding new tasks  
